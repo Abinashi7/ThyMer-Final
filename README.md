@@ -2,7 +2,7 @@
 
 ## Summary
 
-Therapy manager is the final project for the course Foundations of Software Engineering. It aims to create a website for therapists to keep track of their patients, book apointments and more. 
+Therapy manager is the final project for the course Foundations of Software Engineering. It aims to create a website for therapists to keep track of their patients, book appointments and more. 
 
 Therapy Manager allows mental health professionals to organize  appointments and keep track of their patients through patient profiles. Each patient profile contains patient demographic information, medication usage, previous/current diagnoses, and previous/future appointments. Clicking on an appointment brings up a notepad component that allows health professionals to view and edit notes for that appointment. Additionally, users will be able to upload other relevant patient documents such as blood and urine reports, hospital records, and results from physicals.
 
